@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1553532181 source:c:\users\200394095\documents\code\lambert\newton\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+
